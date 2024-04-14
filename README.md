@@ -1,8 +1,8 @@
-# React + Vite
+# Random react stuff
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Using this I'm currently using this repo as a place to dump some Reactjs exercises.
 
-Currently, two official plugins are available:
+### User card component:
+A simple user card component that displays the user avatar, name and email. It also contains a button to trigger the details view.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img title="UserCard component example" alt="UserCard component example" src="./imgs/user_card.png">
